@@ -1,0 +1,10 @@
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\bin\Debug\Send Text Messages - SMS.exe
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\bin\Debug\Send Text Messages - SMS.pdb
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\bin\Debug\Send Text Messages - SMS.xml
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send_Text_Messages___SMS.Form1.resources
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send_Text_Messages___SMS.Resources.resources
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.exe
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.xml
+C:\Documents and Settings\telemeje\My Documents\Visual Studio 2005\Projects\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.pdb

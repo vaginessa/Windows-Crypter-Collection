@@ -1,0 +1,13 @@
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\bin\Debug\AES Crypter.exe
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\bin\Debug\AES Crypter.pdb
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\bin\Debug\AES Crypter.xml
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\AES_Crypter.Form1.resources
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\AES_Crypter.Resources.resources
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\AES Crypter.vbproj.GenerateResource.Cache
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\AES Crypter.exe
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\AES Crypter.xml
+C:\Users\Axioo\AppData\Local\Temporary Projects\AES Crypter\obj\Debug\AES Crypter.pdb
+C:\Users\Axioo\Desktop\AES Crypter\AES Crypter\obj\Debug\AES Crypter.exe
+C:\Users\Axioo\Desktop\AES Crypter\AES Crypter\obj\Debug\AES Crypter.xml
+C:\Users\Axioo\Desktop\AES Crypter\AES Crypter\obj\Debug\AES Crypter.pdb

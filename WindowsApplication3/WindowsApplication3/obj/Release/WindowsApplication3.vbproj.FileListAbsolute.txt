@@ -1,0 +1,10 @@
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Omegle Spreader.exe
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Omegle Spreader.pdb
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Omegle Spreader.xml
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\Omegle Spreader.exe
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\Omegle Spreader.xml
+C:\Users\ALEX\Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Release\Omegle Spreader.pdb

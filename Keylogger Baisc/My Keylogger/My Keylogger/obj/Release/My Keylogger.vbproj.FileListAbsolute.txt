@@ -1,0 +1,12 @@
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\My Keylogger.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tommy\Desktop\steam.exe
+C:\Documents and Settings\Tommy\Desktop\steam.pdb
+C:\Documents and Settings\Tommy\Desktop\steam.xml
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\steam.exe
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\steam.xml
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Release\steam.pdb
+C:\Documents and Settings\Ice\Desktop\My toolz\Sources\Source\My Keylogger\My Keylogger\obj\Release\steam.xml
+C:\Documents and Settings\Ice\Desktop\My toolz\Sources\Source\My Keylogger\My Keylogger\obj\Release\steam.pdb

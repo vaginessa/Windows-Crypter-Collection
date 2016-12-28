@@ -1,0 +1,27 @@
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\bin\Debug\Boom Crypter.exe
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\bin\Debug\Boom Crypter.pdb
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\bin\Debug\Boom Crypter.xml
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\Boom_Crypter.Form1.resources
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\Boom_Crypter.Resources.resources
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\Boom Crypter.exe
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\Boom Crypter.xml
+C:\Documents and Settings\Pocahonta\Local Settings\Application Data\Temporary Projects\Boom Crypter\obj\x86\Debug\Boom Crypter.pdb
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\Boom Crypter.exe
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\Boom Crypter.xml
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\Boom Crypter.pdb
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Debug\Boom Crypter.exe
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Debug\Boom Crypter.pdb
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Debug\Boom Crypter.xml
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\Boom_Crypter.Form1.resources
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\Boom_Crypter.Resources.resources
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Debug\Boom Crypter.exe.config
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog

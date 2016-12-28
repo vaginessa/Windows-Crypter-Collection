@@ -1,0 +1,10 @@
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\bin\Debug\My Keylogger.exe
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\bin\Debug\My Keylogger.pdb
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\bin\Debug\My Keylogger.xml
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\My Keylogger.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\My Keylogger.exe
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\My Keylogger.xml
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\My Keylogger\My Keylogger\obj\Debug\My Keylogger.pdb

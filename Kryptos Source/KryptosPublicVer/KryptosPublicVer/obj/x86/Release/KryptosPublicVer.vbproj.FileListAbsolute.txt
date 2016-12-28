@@ -1,0 +1,17 @@
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Release\KryptosPublicVer.exe
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Release\KryptosPublicVer.pdb
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Release\KryptosPublicVer.xml
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.Form1.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.Resources.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.exe
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.xml
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.pdb
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Release\KryptosPublicVer.exe.config
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\GenerateResource.write.300.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.Binder.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Release\KryptosPublicVer.MainWindow.resources

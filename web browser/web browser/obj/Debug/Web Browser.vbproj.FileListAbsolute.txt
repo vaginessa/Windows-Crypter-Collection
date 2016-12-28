@@ -1,0 +1,88 @@
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\bin\Debug\Web Browser.exe
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\bin\Debug\Web Browser.pdb
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\bin\Debug\Web Browser.xml
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\Web Browser.exe
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\Web Browser.xml
+C:\Documents and Settings\Adam\Local Settings\Application Data\Temporary Projects\Web Browser\obj\Debug\Web Browser.pdb
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe.config
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.pdb
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.xml
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form4.resources
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.exe
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.xml
+C:\Users\Rfizzle\Source\Other\Not\Advanced Web Browser\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.pdb
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe.config
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.pdb
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.xml
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form4.resources
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.exe
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.xml
+C:\Users\Rfizzle\Source\Completed\iHack\iHack Web Browser\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.pdb
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe.config
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.pdb
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.xml
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Form4.resources
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.exe
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.xml
+C:\Documents and Settings\Warb1\My Documents\Visual Studio 2008\Projects\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.pdb
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\bin\Debug\iHack™ Web Browser.exe.config
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\obj\Debug\Interop.WMPLib.dll
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\obj\Debug\AxInterop.WMPLib.dll
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.ResolveComReference.cache
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.exe
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.xml
+Z:\Users\Warbi\Desktop\Web Browser\Web Browser\obj\Debug\iHack™ Web Browser.pdb

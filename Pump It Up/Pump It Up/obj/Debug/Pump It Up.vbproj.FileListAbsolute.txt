@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\bin\Debug\Pump It Up.exe
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\bin\Debug\Pump It Up.pdb
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\bin\Debug\Pump It Up.xml
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\Pump_It_Up.Form1.resources
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\Pump_It_Up.Resources.resources
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\Pump It Up.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\Pump It Up.exe
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\Pump It Up.xml
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Pump It Up\Pump It Up\obj\Debug\Pump It Up.pdb

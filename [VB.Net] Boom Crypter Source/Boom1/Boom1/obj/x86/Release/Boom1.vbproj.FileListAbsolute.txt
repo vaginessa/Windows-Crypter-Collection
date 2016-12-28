@@ -1,0 +1,29 @@
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom1\Boom1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom1\Boom1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom1\Boom1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.exe
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.pdb
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.xml
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.Form1.resources
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.Resources.resources
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.exe
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.xml
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.pdb
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.exe.config
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.exe.config
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.exe
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.xml
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.pdb
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.exe
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.pdb
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\This_is_made_by_Ghostenigma.xml
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.Form1.resources
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\This_is_made_by_Ghostenigma.Resources.resources
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource.read.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource.write.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\Gogoli.exe.config

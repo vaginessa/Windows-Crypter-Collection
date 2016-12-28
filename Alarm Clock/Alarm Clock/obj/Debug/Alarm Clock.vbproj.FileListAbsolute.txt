@@ -1,0 +1,21 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm_Clock.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm_Clock.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm Clock.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\bin\Debug\Alarm Clock.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\bin\Debug\Alarm Clock.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\bin\Debug\Alarm Clock.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm Clock.vbproj.ResolveComReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm Clock.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm Clock.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Alarm Clock\obj\Debug\Alarm Clock.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.pdb

@@ -1,0 +1,35 @@
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.exe
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.pdb
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.xml
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\BlazedUp_Crypter.Form1.resources
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\BlazedUp_Crypter.Resources.resources
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.vbproj.GenerateResource.Cache
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.exe
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.xml
+C:\Users\work agent\AppData\Local\Temporary Projects\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.pdb
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.exe
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.xml
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.pdb
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.exe
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.pdb
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.xml
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp_Crypter.Form1.resources
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp_Crypter.Resources.resources
+C:\Users\work agent\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.vbproj.GenerateResource.Cache
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.exe
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.xml
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.pdb
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.exe
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.pdb
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\bin\Debug\BlazedUp Crypter.xml
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp_Crypter.Form1.resources
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp_Crypter.Resources.resources
+C:\Users\work agent\Desktop\Projects\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.vbproj.GenerateResource.Cache
+C:\Users\hogara\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.exe
+C:\Users\hogara\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.xml
+C:\Users\hogara\Desktop\BlazedUp Crypter\BlazedUp Crypter\obj\Debug\BlazedUp Crypter.pdb

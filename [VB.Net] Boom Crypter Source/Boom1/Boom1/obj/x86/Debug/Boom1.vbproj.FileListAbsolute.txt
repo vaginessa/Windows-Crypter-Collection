@@ -1,0 +1,12 @@
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Debug\This_is_made_by_Ghostenigma.exe.config
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Debug\This_is_made_by_Ghostenigma.exe
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Debug\This_is_made_by_Ghostenigma.pdb
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\bin\Debug\This_is_made_by_Ghostenigma.xml
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\This_is_made_by_Ghostenigma.Form1.resources
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\This_is_made_by_Ghostenigma.Resources.resources
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\This_is_made_by_Ghostenigma.exe
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\This_is_made_by_Ghostenigma.xml
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom1\Boom1\obj\x86\Debug\This_is_made_by_Ghostenigma.pdb

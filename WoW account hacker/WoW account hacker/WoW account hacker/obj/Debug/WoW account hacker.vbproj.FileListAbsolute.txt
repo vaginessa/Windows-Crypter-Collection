@@ -1,0 +1,15 @@
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\bin\Debug\WoW account hacker.exe
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\bin\Debug\WoW account hacker.pdb
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\bin\Debug\WoW account hacker.xml
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW_account_hacker.Form1.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW_account_hacker.Resources.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW account hacker.vbproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW account hacker.exe
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW account hacker.xml
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW account hacker.pdb
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW_account_hacker.AboutForm.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\bin\Debug\WoW account hacker.exe.manifest
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\bin\Debug\WoW account hacker.application
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW account hacker.exe.manifest
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\WoW account hacker\WoW account hacker\obj\Debug\WoW account hacker.application

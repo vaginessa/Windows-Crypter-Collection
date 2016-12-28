@@ -1,0 +1,28 @@
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.exe
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.pdb
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.xml
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\Boom_Crypter.Form1.resources
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\Boom_Crypter.Resources.resources
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.exe
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.xml
+C:\Documents and Settings\Pocahonta\my documents\visual studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.pdb
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.exe.config
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Pocahonta\My Documents\Visual Studio 2010\Projects\Boom Crypter\Boom Crypter\obj\x86\Release\GenerateResource-ResGen.read.4.tlog
+D:\New Folder (4)\k\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.exe.config
+D:\New Folder (4)\k\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.exe
+D:\New Folder (4)\k\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.xml
+D:\New Folder (4)\k\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.pdb
+C:\Users\Jack\Desktop\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.exe.config
+C:\Users\Jack\Desktop\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.exe
+C:\Users\Jack\Desktop\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.xml
+C:\Users\Jack\Desktop\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.pdb
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\bin\Release\Boom Crypter.exe.config
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.exe
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.xml
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom Crypter\Boom Crypter\obj\x86\Release\Boom Crypter.pdb

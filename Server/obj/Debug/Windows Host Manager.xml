@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsHostManager
+</name>
+</assembly>
+<members>
+<member name="M:WindowsHostManager.keylog.GetActiveWindowTitle">
+	<summary>
+ Gets the title of the active window
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.Hooked">
+	<summary>
+ Checks if we set a hook or not
+ </summary>
+	<returns>True/False</returns>
+	<remarks></remarks>
+</member><member name="F:WindowsHostManager.keylog.live">
+	<summary>
+ Sets the keyboard hook
+ </summary>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.UnhookKeyboard">
+	<summary>
+ Unsets the keyboard hook
+ </summary>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.KeyboardCallback(System.Int32,System.Int32,WindowsHostManager.keylog.KBDLLHOOKSTRUCT@)">
+	<summary>
+ Function to be called when there's a keyboard event
+ </summary>
+	<param name="Code">If this argument is lower than 0 you shouldn't block the event</param>
+	<param name="wParam">Type of event (Key UP/DOWN, etc.)</param>
+	<param name="lParam">Event Details</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.Timer1_Tick(System.Object,System.EventArgs)">
+	<summary>
+ On tick
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.Form1_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+	<summary>
+ On Form Exit
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.btnStart_Click(System.Object,System.EventArgs)">
+	<summary>
+ Start Hook
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.btnStop_Click(System.Object,System.EventArgs)">
+	<summary>
+ Stop the hook
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:WindowsHostManager.keylog.btnExit_Click(System.Object,System.EventArgs)">
+	<summary>
+ Exit Program
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="P:WindowsHostManager.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:WindowsHostManager.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:WindowsHostManager.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

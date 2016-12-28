@@ -1,0 +1,11 @@
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.exe
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.xml
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send Text Messages - SMS.pdb
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\bin\Debug\Send Text Messages - SMS.exe
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\bin\Debug\Send Text Messages - SMS.pdb
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\bin\Debug\Send Text Messages - SMS.xml
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send_Text_Messages___SMS.Form1.resources
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\Send_Text_Messages___SMS.Resources.resources
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\Send Text Messages - SMS\Send Text Messages - SMS\obj\Debug\GenerateResource.write.1.tlog

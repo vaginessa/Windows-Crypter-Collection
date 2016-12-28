@@ -1,0 +1,18 @@
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\Gogoli.exe.config
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\Gogoli.exe
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\Gogoli.pdb
+D:\New Folder (4)\k\Boom1\Boom1\bin\Release\Gogoli.xml
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\Gogoli.Form1.resources
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\Gogoli.Resources.resources
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource.read.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\GenerateResource.write.1.tlog
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\Gogoli.exe
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\Gogoli.xml
+D:\New Folder (4)\k\Boom1\Boom1\obj\x86\Release\Gogoli.pdb
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom1\Boom1\bin\Release\Gogoli.exe.config
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom1\Boom1\obj\x86\Release\Gogoli.exe
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom1\Boom1\obj\x86\Release\Gogoli.xml
+C:\Users\Jack\Desktop\Windows\Crypter Sources\[VB.Net] Boom Crypter Source\Boom1\Boom1\obj\x86\Release\Gogoli.pdb

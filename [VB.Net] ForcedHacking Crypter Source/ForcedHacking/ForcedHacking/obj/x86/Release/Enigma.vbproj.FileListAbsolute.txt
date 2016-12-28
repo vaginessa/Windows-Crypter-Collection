@@ -1,0 +1,11 @@
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\bin\Release\Polymorphic Crypter.exe
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\bin\Release\Polymorphic Crypter.pdb
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\bin\Release\Polymorphic Crypter.xml
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\Polymorphic Crypter.exe
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\Polymorphic Crypter.xml
+C:\Users\Bryan\Desktop\Enigma Crypter\Enigma Crypter\obj\x86\Release\Polymorphic Crypter.pdb

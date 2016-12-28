@@ -1,0 +1,10 @@
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\File_Injection.Form1.resources
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\File_Injection.Resources.resources
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\File Injection.vbproj.GenerateResource.Cache
+D:\Users\Peter\Desktop\File Injection\File Injection\bin\Debug\SuperNova.exe
+D:\Users\Peter\Desktop\File Injection\File Injection\bin\Debug\SuperNova.pdb
+D:\Users\Peter\Desktop\File Injection\File Injection\bin\Debug\SuperNova.xml
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\SuperNova.exe
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\SuperNova.xml
+D:\Users\Peter\Desktop\File Injection\File Injection\obj\Debug\SuperNova.pdb

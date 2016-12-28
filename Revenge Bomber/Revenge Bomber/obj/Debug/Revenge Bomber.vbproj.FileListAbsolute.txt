@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\bin\Debug\Revenge Bomber.exe
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\bin\Debug\Revenge Bomber.pdb
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\bin\Debug\Revenge Bomber.xml
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\Revenge Bomber.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\Revenge Bomber.exe
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\Revenge Bomber.xml
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Revenge Bomber\Revenge Bomber\obj\Debug\Revenge Bomber.pdb

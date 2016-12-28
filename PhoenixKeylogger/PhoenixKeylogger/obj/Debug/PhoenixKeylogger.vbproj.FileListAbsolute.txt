@@ -1,0 +1,11 @@
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\bin\Debug\PhoenixKeylogger.exe
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\bin\Debug\PhoenixKeylogger.pdb
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\bin\Debug\PhoenixKeylogger.xml
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.Form1.resources
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.Resources.resources
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.vbproj.GenerateResource.Cache
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.exe
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.xml
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.pdb
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\PhoenixKeylogger\PhoenixKeylogger\obj\Debug\PhoenixKeylogger.AboutBox1.resources

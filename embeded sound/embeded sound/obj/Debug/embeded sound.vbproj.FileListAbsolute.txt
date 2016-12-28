@@ -1,0 +1,2 @@
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\embeded sound\embeded sound\obj\Debug\Interop.VBRUN.dll
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\embeded sound\embeded sound\obj\Debug\embeded sound.vbproj.ResolveComReference.cache

@@ -1,0 +1,11 @@
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\bin\Debug\Google It.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\bin\Debug\Google It.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\bin\Debug\Google It.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\Google_It.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\Google_It.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\GenerateResource.write.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\Google It.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\Google It.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\googleit\googleit\obj\Debug\Google It.pdb

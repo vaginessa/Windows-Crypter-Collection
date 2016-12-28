@@ -1,0 +1,15 @@
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\New_junk_code_generater.Form1.resources
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\New_junk_code_generater.Resources.resources
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\bin\Release\Junk Code Generator.exe
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\bin\Release\Junk Code Generator.pdb
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\bin\Release\Junk Code Generator.xml
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\Junk Code Generator.exe
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\Junk Code Generator.xml
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\Junk Code Generator.pdb
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\bin\Release\Junk Code Generator.exe.config
+C:\Users\algorithm\documents\visual studio 2010\Projects\New junk code generater\New junk code generater\obj\x86\Release\GenerateResource.write.65.tlog

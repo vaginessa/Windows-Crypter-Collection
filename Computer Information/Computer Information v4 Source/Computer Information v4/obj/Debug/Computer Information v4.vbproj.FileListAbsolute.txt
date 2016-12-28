@@ -1,0 +1,26 @@
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.exe
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.pdb
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.xml
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\Computer_Information_v4.Form1.resources
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\Computer_Information_v4.Resources.resources
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.exe
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.xml
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.pdb
+C:\Documents and Settings\JoSh iZ Fr3sH\My Documents\Visual Studio 2008\Projects\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.exe.config
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.exe.config
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.exe
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.xml
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.pdb
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.exe
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.pdb
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\bin\Debug\Computer Information v4.xml
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\Computer_Information_v4.Form1.resources
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\Computer_Information_v4.Resources.resources
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4\Computer Information v4\obj\Debug\Computer Information v4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4 Source\Computer Information v4\bin\Debug\Computer Information v4.exe.config
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4 Source\Computer Information v4\obj\Debug\Computer Information v4.exe
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4 Source\Computer Information v4\obj\Debug\Computer Information v4.xml
+C:\Documents and Settings\JoSh iZ Fr3sH\Desktop\Computer Information v4 Source\Computer Information v4\obj\Debug\Computer Information v4.pdb

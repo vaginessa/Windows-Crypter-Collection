@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CodeDom Crypter">
+</Property><Property Name="Fichier solution" Value="C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\CodeDom Crypter.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\CodeDom Crypter.suo">
+</Property><Property Name="Date" Value="mardi 28 septembre 2010">
+</Property><Property Name="Time" Value="20:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CodeDom Crypter.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\CodeDom Crypter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CodeDom Crypter.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\CodeDom Crypter.suo">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="CodeDom Crypter.vbproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\CodeDom Crypter.vbproj">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="CodeDom Crypter.vbproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\CodeDom Crypter.vbproj.user">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="Class1.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\Class1.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="Form1.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="Form1.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="iCompiler.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\iCompiler.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="Resources\source.txt" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\Resources\source.txt">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="Form1.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\KEVIN\Desktop\CodeDom Crypter\CodeDom Crypter\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CodeDom Crypter" Source="CodeDom Crypter.vbproj" Description="Le fichier projet ne doit pas être converti.">
+</Event><Event ErrorLevel="3" Project="CodeDom Crypter" Source="CodeDom Crypter.vbproj" Description="Aucune conversion requise">
+</Event><Event ErrorLevel="0" Project="" Source="CodeDom Crypter.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="CodeDom Crypter.sln" Description="Converted">
+</Event></UpgradeLog>

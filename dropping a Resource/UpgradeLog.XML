@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dropping a Resource">
+</Property><Property Name="Fichier solution" Value="D:\Sources VB\VB-Net-Sources-Code-Hack-Free\dropping a Resource\dropping a Resource.sln">
+</Property><Property Name="Date" Value="vendredi 10 août 2012">
+</Property><Property Name="Time" Value="17:52">
+</Property></Properties><Event ErrorLevel="0" Project="dropping a Resource" Source="dropping a Resource\dropping a Resource.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="dropping a Resource" Source="dropping a Resource\dropping a Resource.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dropping a Resource.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="dropping a Resource.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dropping a Resource" Source="dropping a Resource\dropping a Resource.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\bin\Debug\Keylogger builder.exe
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\bin\Debug\Keylogger builder.pdb
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\bin\Debug\Keylogger builder.xml
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger_builder.Form1.resources
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger_builder.Resources.resources
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger builder.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger builder.exe
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger builder.xml
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger builder.pdb
+C:\Documents and Settings\Tommy\My Documents\Visual Studio 2008\Projects\Keylogger builder\Keylogger builder\obj\Debug\Keylogger_builder.Form2.resources

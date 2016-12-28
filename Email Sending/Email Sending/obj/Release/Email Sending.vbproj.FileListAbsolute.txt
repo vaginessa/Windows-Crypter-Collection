@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\bin\Release\Email Sending.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\bin\Release\Email Sending.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\bin\Release\Email Sending.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\Email_Sending.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\Email_Sending.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\Email Sending.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\Email Sending.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\Email Sending.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Email Sending\Email Sending\obj\Release\Email Sending.pdb
+C:\Documents and Settings\Administrator\Desktop\Email Sending.exe
+C:\Documents and Settings\Administrator\Desktop\Email Sending.pdb
+C:\Documents and Settings\Administrator\Desktop\Email Sending.xml

@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\bin\Debug\Screen Capture.xml
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.xml
+C:\Documents and Settings\Administrator\Desktop\Visual Basic\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb
+E:\Visual Basic8\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+E:\Visual Basic8\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.xml
+E:\Visual Basic8\SourceCodes\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb

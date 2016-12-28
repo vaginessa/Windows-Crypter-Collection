@@ -1,0 +1,33 @@
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\bin\Debug\Polymorphic Crypter.exe
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\bin\Debug\Polymorphic Crypter.pdb
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\bin\Debug\Polymorphic Crypter.xml
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\Polymorphic Crypter.exe
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\Polymorphic Crypter.xml
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\Polymorphic Crypter.pdb
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\bin\Debug\DeadAuth.dll
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\bin\Debug\DeadAuth.pdb
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\bin\Debug\DeadAuth.xml
+C:\Users\Bryan\Desktop\ForcedHacking\ForcedHacking\obj\x86\Debug\WindowsApplication1.HostEdit.resources
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\bin\Debug\Polymorphic Crypter.exe
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\bin\Debug\Polymorphic Crypter.pdb
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\bin\Debug\Polymorphic Crypter.xml
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\bin\Debug\DeadAuth.pdb
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\bin\Debug\DeadAuth.xml
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\WindowsApplication1.HostEdit.resources
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\Polymorphic Crypter.exe
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\Polymorphic Crypter.xml
+C:\Users\Jack\Desktop\derrp\ForcedHacking\ForcedHacking\obj\x86\Debug\Polymorphic Crypter.pdb

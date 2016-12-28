@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No_Virus_Thanks_Scanner.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No_Virus_Thanks_Scanner.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.exe
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.xml
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.pdb
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner.exe
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner.pdb
+C:\Documents and Settings\Administrator\Desktop\No Virus Thanks Scanner.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\No Virus Thanks Scanner\No Virus Thanks Scanner\obj\Release\No Virus Thanks Scanner.pdb

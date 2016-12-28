@@ -1,0 +1,31 @@
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\bin\Debug\Bomber v1.exe
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\bin\Debug\Bomber v1.pdb
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\bin\Debug\Bomber v1.xml
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\Bomber_v1.txtsubject.resources
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\Bomber_v1.Resources.resources
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\Nuke Bomber v1.vbproj.GenerateResource.Cache
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\Bomber v1.exe
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\Bomber v1.xml
+C:\Users\Mirko\AppData\Local\Temporary Projects\Bomber v1\obj\Debug\Bomber v1.pdb
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\bin\Debug\Nuke Bomber v1.exe
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\bin\Debug\Nuke Bomber v1.pdb
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\bin\Debug\Nuke Bomber v1.xml
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke_Bomber_v1.Resources.resources
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.vbproj.GenerateResource.Cache
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.exe
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.xml
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.pdb
+C:\Users\Mirko\Desktop\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke_Bomber_v1.FrmMain.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke Bomber v1.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\bin\Debug\Nuke Bomber v1.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\bin\Debug\Nuke Bomber v1.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\bin\Debug\Nuke Bomber v1.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke_Bomber_v1.FrmMain.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\Nuke_Bomber_v1.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Nuke Bomber v1\Nuke Bomber v1\obj\Debug\GenerateResource.write.1.tlog

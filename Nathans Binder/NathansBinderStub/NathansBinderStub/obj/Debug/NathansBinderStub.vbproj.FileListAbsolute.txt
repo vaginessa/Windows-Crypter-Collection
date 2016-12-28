@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\bin\Debug\NathansBinderStub.exe
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\bin\Debug\NathansBinderStub.pdb
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\bin\Debug\NathansBinderStub.xml
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\Nathan_s_Binder_Stub.Blank.resources
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\Nathan_s_Binder_Stub.Resources.resources
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\NathansBinderStub.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\NathansBinderStub.exe
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\NathansBinderStub.xml
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Nathans Binder\NathansBinderStub\NathansBinderStub\obj\Debug\NathansBinderStub.pdb

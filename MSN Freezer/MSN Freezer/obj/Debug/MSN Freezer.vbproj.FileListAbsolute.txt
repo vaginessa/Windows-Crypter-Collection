@@ -1,0 +1,10 @@
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\bin\Debug\MSN Freezer.exe
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\bin\Debug\MSN Freezer.pdb
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\bin\Debug\MSN Freezer.xml
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\MSN_Freezer.Form1.resources
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\MSN_Freezer.Resources.resources
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\MSN Freezer.vbproj.GenerateResource.Cache
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\MSN Freezer.exe
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\MSN Freezer.xml
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Freezer\MSN Freezer\obj\Debug\MSN Freezer.pdb

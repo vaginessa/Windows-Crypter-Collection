@@ -1,0 +1,39 @@
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\bin\Debug\KryptosPublicVer.exe
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\bin\Debug\KryptosPublicVer.pdb
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\bin\Debug\KryptosPublicVer.xml
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.Resources.resources
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.exe
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.xml
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.pdb
+C:\Users\Jack\AppData\Local\Temporary Projects\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.Form1.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.exe
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.xml
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.pdb
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.exe
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.pdb
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.xml
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.Form1.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.Resources.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.exe.config
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.Binder.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.MainWindow.resources
+C:\Users\Jack\Desktop\Windows\Kryptos Source\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.exe.config
+C:\Users\Jack\Desktop\Windows\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.exe
+C:\Users\Jack\Desktop\Windows\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.xml
+C:\Users\Jack\Desktop\Windows\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.pdb
+C:\Users\Tom\Desktop\hack\Source\Kryptos Source\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.exe.config
+C:\Users\Tom\Desktop\hack\Source\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.exe
+C:\Users\Tom\Desktop\hack\Source\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.xml
+C:\Users\Tom\Desktop\hack\Source\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.pdb
+C:\Users\Tom\Desktop\hack\Source 1\Kryptos Source\KryptosPublicVer\KryptosPublicVer\bin\Debug\KryptosPublicVer.exe.config
+C:\Users\Tom\Desktop\hack\Source 1\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.exe
+C:\Users\Tom\Desktop\hack\Source 1\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.xml
+C:\Users\Tom\Desktop\hack\Source 1\Kryptos Source\KryptosPublicVer\KryptosPublicVer\obj\x86\Debug\KryptosPublicVer.pdb

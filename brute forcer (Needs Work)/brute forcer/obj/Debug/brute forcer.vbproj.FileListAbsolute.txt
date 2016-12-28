@@ -1,0 +1,11 @@
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\bin\Debug\brute forcer.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\bin\Debug\brute forcer.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\bin\Debug\brute forcer.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\WindowsApplication1.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\WindowsApplication1.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\GenerateResource.write.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\brute forcer.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\brute forcer.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\brute forcer (Needs Work)\brute forcer\obj\Debug\brute forcer.pdb

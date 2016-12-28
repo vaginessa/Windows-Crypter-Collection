@@ -1,0 +1,10 @@
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\MyCrypter.vbproj.GenerateResource.Cache
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\bin\Debug\MoonCrypter.exe
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\bin\Debug\MoonCrypter.pdb
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\bin\Debug\MoonCrypter.xml
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\MoonCrypter.Form1.resources
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\MoonCrypter.Resources.resources
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\MoonCrypter.exe
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\MoonCrypter.xml
+C:\Users\t0fx\dev\VBnet\MyCrypter\MyCrypter\obj\Debug\MoonCrypter.pdb

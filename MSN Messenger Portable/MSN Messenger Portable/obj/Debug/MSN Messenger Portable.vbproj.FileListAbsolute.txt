@@ -1,0 +1,31 @@
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.exe
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.pdb
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.xml
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\MSN_Messenger_Portable.Form1.resources
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\MSN_Messenger_Portable.Resources.resources
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.vbproj.GenerateResource.Cache
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.exe
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.xml
+C:\Users\v.d. Broek\AppData\Local\Temporary Projects\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.pdb
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.exe
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.xml
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.pdb
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.exe
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.pdb
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.xml
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN_Messenger_Portable.Form1.resources
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN_Messenger_Portable.Resources.resources
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.vbproj.GenerateResource.Cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN Messenger Portable.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\bin\Debug\MSN Messenger Portable.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN_Messenger_Portable.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\MSN_Messenger_Portable.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\MSN Messenger Portable\MSN Messenger Portable\obj\Debug\GenerateResource.write.1.tlog

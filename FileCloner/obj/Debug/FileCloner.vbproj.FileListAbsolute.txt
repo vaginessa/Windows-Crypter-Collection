@@ -1,0 +1,10 @@
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\bin\Debug\FileCloner.exe
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\bin\Debug\FileCloner.pdb
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\bin\Debug\FileCloner.xml
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\FileCloner.Form1.resources
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\FileCloner.Resources.resources
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\FileCloner.vbproj.GenerateResource.Cache
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\FileCloner.exe
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\FileCloner.xml
+C:\Users\t0fx\dev\VBnet\FileCloner\FileCloner\obj\Debug\FileCloner.pdb

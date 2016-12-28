@@ -1,0 +1,42 @@
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\bin\Debug\iDDoSeR.exe
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\bin\Debug\iDDoSeR.pdb
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\bin\Debug\iDDoSeR.xml
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\iDDoSeR.Form1.resources
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\iDDoSeR.Resources.resources
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\iDDoSeR.vbproj.GenerateResource.Cache
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\iDDoSeR.exe
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\iDDoSeR.xml
+C:\Users\Alexandre\AppData\Local\Temporary Projects\iDDoSeR\obj\Debug\iDDoSeR.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.exe
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.xml
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.exe
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.xml
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.Form1.resources
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.Resources.resources
+C:\Users\Alexandre\Documents\Visual Studio 2008\Projects\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.vbproj.GenerateResource.Cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.exe
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.xml
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.pdb
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.exe
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.pdb
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\bin\Debug\iDDoSeR.xml
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.Form1.resources
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\iDDoSeR.Resources.resources
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\iDDoSeR\iDDoSeR\obj\Debug\GenerateResource.write.1.tlog

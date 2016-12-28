@@ -1,0 +1,21 @@
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\bin\Debug\Check_Internet.exe
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\bin\Debug\Check_Internet.pdb
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\bin\Debug\Check_Internet.xml
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\Check_Internet.Form1.resources
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\Check_Internet.Resources.resources
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\Check_Internet.vbproj.GenerateResource.Cache
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\Check_Internet.exe
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\Check_Internet.xml
+C:\Users\Oneil Drummond\Documents\Visual Studio 2008\Projects\Check_Internet\Check_Internet\obj\Debug\Check_Internet.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\Check_Internet.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\Check_Internet.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\Check_Internet.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\bin\Debug\Check_Internet.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\bin\Debug\Check_Internet.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\bin\Debug\Check_Internet.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\Check_Internet.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\Check_Internet.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Check_Internet\Check_Internet\obj\Debug\GenerateResource.write.1.tlog

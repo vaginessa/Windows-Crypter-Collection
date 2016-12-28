@@ -1,0 +1,10 @@
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\bin\Release\MSN Messenger Portable.exe
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\bin\Release\MSN Messenger Portable.pdb
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\bin\Release\MSN Messenger Portable.xml
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\ResolveAssemblyReference.cache
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\MSN_Messenger_Portable.Form1.resources
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\MSN_Messenger_Portable.Resources.resources
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\MSN Messenger Portable.vbproj.GenerateResource.Cache
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\MSN Messenger Portable.exe
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\MSN Messenger Portable.xml
+C:\Users\v.d. Broek\Documents\Visual Studio 2008\Projects\MSN Messenger Portable\MSN Messenger Portable\obj\Release\MSN Messenger Portable.pdb

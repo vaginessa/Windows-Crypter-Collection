@@ -1,0 +1,24 @@
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\bin\Debug\Easy Screen Capture.exe
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\bin\Debug\Easy Screen Capture.pdb
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\bin\Debug\Easy Screen Capture.xml
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\ss.Form1.resources
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\ss.Resources.resources
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\ss.vbproj.GenerateResource.Cache
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\Easy Screen Capture.exe
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\Easy Screen Capture.xml
+C:\Documents and Settings\1134\My Documents\Visual Studio 2008\Projects\ss\ss\obj\Debug\Easy Screen Capture.pdb
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Easy Screen Capture\ss\obj\Debug\Easy Screen Capture.exe
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Easy Screen Capture\ss\obj\Debug\Easy Screen Capture.xml
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Easy Screen Capture\ss\obj\Debug\Easy Screen Capture.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\Easy Screen Capture.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\Easy Screen Capture.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\Easy Screen Capture.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\bin\Debug\Easy Screen Capture.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\bin\Debug\Easy Screen Capture.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\bin\Debug\Easy Screen Capture.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\ss.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\ss.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Easy Screen Capture\ss\obj\Debug\GenerateResource.write.1.tlog

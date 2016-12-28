@@ -1,0 +1,11 @@
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\bin\Release\CodeDom Crypter.exe
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\bin\Release\CodeDom Crypter.pdb
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\bin\Release\CodeDom Crypter.xml
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\CodeDom Crypter.exe
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\CodeDom Crypter.xml
+C:\Users\i7\documents\visual studio 2010\Projects\CodeDom Crypter\CodeDom Crypter\obj\x86\Release\CodeDom Crypter.pdb

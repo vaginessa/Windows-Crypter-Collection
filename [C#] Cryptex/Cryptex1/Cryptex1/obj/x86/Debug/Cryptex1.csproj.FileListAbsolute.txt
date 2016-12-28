@@ -1,0 +1,17 @@
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\bin\Debug\Cryptex1.exe
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\bin\Debug\Cryptex1.pdb
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.Form1.resources
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.Properties.Resources.resources
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.exe
+c:\users\und3ath\documents\visual studio 2010\Projects\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.pdb
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.exe
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.pdb
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\bin\Debug\Cryptex1.exe
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\bin\Debug\Cryptex1.pdb
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.Form1.resources
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.Properties.Resources.resources
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Downloads\Cryptex1\Cryptex1\Cryptex1\obj\x86\Debug\Cryptex1.csproj.GenerateResource.Cache

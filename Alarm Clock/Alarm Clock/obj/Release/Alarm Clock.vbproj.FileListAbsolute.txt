@@ -1,0 +1,37 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\bin\Release\Alarm Clock.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\bin\Release\Alarm Clock.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\bin\Release\Alarm Clock.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\bin\Release\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm_Clock.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm_Clock.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Interop.WMPLib.dll
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\AxInterop.WMPLib.dll
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.vbproj.ResolveComReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Alarm Clock.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\bin\Release\Alarm Clock.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\bin\Release\Alarm Clock.pdb
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\bin\Release\Alarm Clock.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\bin\Release\Interop.WMPLib.dll
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\bin\Release\AxInterop.WMPLib.dll
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\ResolveAssemblyReference.cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Alarm_Clock.Form1.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\Alarm_Clock.Resources.resources
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\GenerateResource.read.1.tlog
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\Alarm Clock\Alarm Clock\obj\Release\GenerateResource.write.1.tlog

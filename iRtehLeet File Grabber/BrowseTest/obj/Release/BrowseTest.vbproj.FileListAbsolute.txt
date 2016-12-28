@@ -1,0 +1,10 @@
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\BrowseTest.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\bin\Release\iRtehLeet's File Grabber.exe
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\bin\Release\iRtehLeet's File Grabber.pdb
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\bin\Release\iRtehLeet's File Grabber.xml
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\iRtL.Form1.resources
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\iRtL.Resources.resources
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\iRtehLeet's File Grabber.exe
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\iRtehLeet's File Grabber.xml
+C:\Documents and Settings\Jakob\My Documents\Visual Studio 2008\Projects\BrowseTest\BrowseTest\obj\Release\iRtehLeet's File Grabber.pdb

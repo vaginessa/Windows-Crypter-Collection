@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Search.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Search.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Search.Form1.resources
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Search.Resources.resources
+C:\Documents and Settings\Ice\Desktop\My toolz\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\Search\Search\obj\Debug\Search.vbproj.GenerateResource.Cache

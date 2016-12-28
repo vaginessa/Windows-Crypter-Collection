@@ -1,0 +1,10 @@
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\bin\Debug\winini.exe
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\bin\Debug\winini.pdb
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\bin\Debug\winini.xml
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\winini.Resources.resources
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\winini.vbproj.GenerateResource.Cache
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\winini.exe
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\winini.xml
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\winini.pdb
+C:\Users\t0fx\dev\VBnet\MyCrypter\winini\obj\Debug\winini.Form1.resources

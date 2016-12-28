@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\bin\Debug\Mp3Player.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.xml
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\bin\Debug\Mp3Player.xml
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Mp3Player\Mp3Player\obj\Debug\Mp3Player.vbproj.GenerateResource.Cache

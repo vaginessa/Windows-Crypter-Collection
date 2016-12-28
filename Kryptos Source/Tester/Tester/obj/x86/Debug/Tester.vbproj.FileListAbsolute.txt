@@ -1,0 +1,28 @@
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\bin\Debug\Tester.xml
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\Tester.Resources.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\Tester.xml
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\bin\Debug\Tester.exe.config
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\Tester.BlankForm.resources
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jack\documents\visual studio 2010\Projects\Tester\Tester\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\bin\Debug\Tester.exe.config
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\bin\Debug\Tester.xml
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\Tester.BlankForm.resources
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\Tester.Resources.resources
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\Tester.xml
+C:\Users\Jack\Desktop\Windows\Kryptos Source\Tester\Tester\obj\x86\Debug\Tester.pdb

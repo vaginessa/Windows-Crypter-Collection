@@ -1,0 +1,10 @@
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\bin\Release\License.exe
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\bin\Release\License.pdb
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\bin\Release\License.xml
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\License.Form1.resources
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\License.Resources.resources
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\License.exe
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\License.xml
+C:\Documents and Settings\tom age five\Desktop\License\WindowsApplication1\obj\Release\License.pdb

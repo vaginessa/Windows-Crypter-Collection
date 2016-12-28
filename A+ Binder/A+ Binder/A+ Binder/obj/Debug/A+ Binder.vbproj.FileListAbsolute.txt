@@ -1,0 +1,3 @@
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\A+ Binder\A+ Binder\A+ Binder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\A+ Binder\A+ Binder\A+ Binder\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Ice\Desktop\Nathan72389_s_vb.net_source_pack\Nathan72389's vb.net source pack\A+ Binder\A+ Binder\A+ Binder\obj\Debug\A+ Binder.vbproj.GenerateResource.Cache

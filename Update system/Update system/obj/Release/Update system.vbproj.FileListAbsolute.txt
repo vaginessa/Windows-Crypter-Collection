@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\bin\Release\Update system.exe
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\bin\Release\Update system.pdb
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\bin\Release\Update system.xml
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\Update_system.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\Update_system.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\Update system.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\Update system.exe
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\Update system.xml
+C:\Documents and Settings\Administrator\Desktop\Update system\Update system\obj\Release\Update system.pdb

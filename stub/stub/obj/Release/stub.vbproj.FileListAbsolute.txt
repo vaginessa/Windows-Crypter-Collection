@@ -1,0 +1,23 @@
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\bin\Release\stub.exe
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\bin\Release\stub.pdb
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\bin\Release\stub.xml
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\stub.Form1.resources
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\stub.Resources.resources
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\stub.vbproj.GenerateResource.Cache
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\stub.exe
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\stub.xml
+D:\Users\Optimus\AppData\Local\Temporary Projects\stub\obj\Release\stub.pdb
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\stub.exe
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\stub.xml
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\stub.pdb
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\bin\Release\stub.exe
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\bin\Release\stub.pdb
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\bin\Release\stub.xml
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\stub.Form1.resources
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\stub.Resources.resources
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Release\stub.vbproj.GenerateResource.Cache
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\stub\stub\obj\Release\stub.exe
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\stub\stub\obj\Release\stub.xml
+D:\Sources VB\VB-Net-Sources-Code-Hack-Free\stub\stub\obj\Release\stub.pdb

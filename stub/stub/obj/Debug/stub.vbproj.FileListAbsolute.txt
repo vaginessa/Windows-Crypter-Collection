@@ -1,0 +1,10 @@
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\bin\Debug\stub.exe
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\bin\Debug\stub.pdb
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\bin\Debug\stub.xml
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\stub.Form1.resources
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\stub.Resources.resources
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\stub.vbproj.GenerateResource.Cache
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\stub.exe
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\stub.xml
+D:\Users\Optimus\Documents\Visual Studio 2008\Projects\stub\stub\obj\Debug\stub.pdb

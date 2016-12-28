@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GMail">
+</Property><Property Name="Fichier solution" Value="C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\GMail.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\GMail.suo">
+</Property><Property Name="Date" Value="samedi 9 février 2013">
+</Property><Property Name="Time" Value="21:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GMail.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\GMail.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GMail.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\GMail.suo">
+</Event><Event ErrorLevel="0" Project="GMail" Source="GMail.vbproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\GMail.vbproj">
+</Event><Event ErrorLevel="0" Project="GMail" Source="FormGmail.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\FormGmail.vb">
+</Event><Event ErrorLevel="0" Project="GMail" Source="FormGmail.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\FormGmail.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GMail" Source="FormGmail.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\FormGmail.resx">
+</Event><Event ErrorLevel="0" Project="GMail" Source="My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\hogara\Desktop\VB-Net-Sources-Code-Hack-Free\GMail\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GMail" Source="GMail.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="GMail" Source="GMail.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GMail.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="GMail.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GMail" Source="GMail.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

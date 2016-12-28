@@ -1,0 +1,10 @@
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\bin\Debug\Deface Page Gen.exe
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\bin\Debug\Deface Page Gen.pdb
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\bin\Debug\Deface Page Gen.xml
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\Deface_Page_Gen.Form1.resources
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\Deface_Page_Gen.Resources.resources
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\Deface Page Gen.vbproj.GenerateResource.Cache
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\Deface Page Gen.exe
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\Deface Page Gen.xml
+C:\Users\Max\Documents\Visual Studio 2008\New Projects\Deface Page Gen\Deface Page Gen\obj\Debug\Deface Page Gen.pdb

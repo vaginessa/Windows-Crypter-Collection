@@ -1,0 +1,21 @@
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\bin\Debug\1337 v1.0.exe
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\bin\Debug\1337 v1.0.pdb
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\bin\Debug\1337 v1.0.xml
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\_1337_v1._0.Form1.resources
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\_1337_v1._0.Resources.resources
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\1337 v1.0.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\1337 v1.0.exe
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\1337 v1.0.xml
+C:\Documents and Settings\Ice\Local Settings\Application Data\Temporary Projects\1337 v1.0\obj\Debug\1337 v1.0.pdb
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\1337 v1.0.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\bin\Debug\1337 v2.0.exe
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\bin\Debug\1337 v2.0.pdb
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\bin\Debug\1337 v2.0.xml
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\_1337_v2._0.Form1.resources
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\_1337_v2._0.Form2.resources
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\_1337_v2._0.Resources.resources
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\1337 v2.0.exe
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\1337 v2.0.xml
+C:\Documents and Settings\Ice\Desktop\1337 v1.0\1337 v1.0\1337 v1.0\obj\Debug\1337 v2.0.pdb
